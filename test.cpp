@@ -4,7 +4,7 @@ using namespace std;
 
 int mai()
 {
-  cout << "hello, cpp, second" << endl;
+  cout << "Hello, Cpp" << endl;
 
   return 0;
 }
